@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/amansrv/amansrv/Chakr-Innovation-Task/main/Project_Sample">
+![image](file:///C:/Users/DELL/Downloads/Chakr%20Innovation%20Task/Project_Sample.png)
 
 ---
 
