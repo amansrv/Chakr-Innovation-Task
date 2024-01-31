@@ -1,12 +1,35 @@
-> Chakr-Innovation Dashboard
+# **Chakr-Innovation Dashboard**
 
 <br>
-## This application allows users to explore Revenue & Profit Chart data in a user-friendly interface.
+
+> Overview
+
+**The web application allows users to explore Revenue & Profit Chart data in a user-friendly interface.**
+
+**This React component integrates Chart.js to create a line chart representing revenue data over a period and a doughnut chart representing revenue growth and also done ui according to the given Figma design.**
+
+> Features
+
+- Fetches revenue data from an API endpoint using Axios.
+- Calculates and displays the revenue growth percentage.
+- Utilizes the Chart.js library for creating interactive charts.
+- Responsive design with adjustable options.
+- used backend to sort data and make api for downsampling data.
+
+> Steps to run our project
+
+- Clone the repository.
+- Run the command `npm install` in both the frontend and backend folders.
+- Run the command `npm run dev` in the backend folder.
+- Run the command `npm start` in the frontend folder on localhost:3000.
+
 ---
 
-[![Backend Deploy to Render ](https://img.shields.io/badge/Backend_Deployed_Render_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chakr.onrender.com/api/downsampled)
+> Delpyed Linkes
 
-[![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chakr-innovation-pvt-ltd-ckli.vercel.app/)
+- [![Backend Deploy to Render ](https://img.shields.io/badge/Backend_Deployed_Render_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chakr.onrender.com/api/downsampled)
+
+- [![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chakr-innovation-pvt-ltd-ckli.vercel.app/)
 
 ---
 
@@ -25,6 +48,7 @@
   - `ExpressJS`
 
 - #### For deploy database:-
+
   - `Render`
 
 - #### For Styling:-
@@ -34,38 +58,6 @@
 - #### For live Project: -
 
   - `Vercel`
-
----
-
-## ⭕Steps to run our project:
-
-✨Clone the repository.
-
-✨Run the command `npm install` in both the frontend and backend folders.
-
-✨Run the command `npm run dev` in the backend folder.
-
-✨Run the command `npm start` in the frontend folder on localhost:3000.
-
----
-
-# About Project✨ -
-
-This React component integrates Chart.js to create a line chart representing revenue data over a period and a doughnut chart representing revenue growth and also done ui according to the given Figma design.
-
-## Features ✨:-
-
-- Fetches revenue data from an API endpoint using Axios.
-- Calculates and displays the revenue growth percentage.
-- Utilizes the Chart.js library for creating interactive charts.
-- Responsive design with adjustable options.
-- used backend to sort data and make api for downsampling data.
-
-# Usage
-
-     Ensure that the Axios and react-chartjs-2 libraries are installed:-
-    Customize the API endpoint in the Axios request inside the useEffect to match your data source.
-    Adjust the chart data, styling, and options based on your specific requirements.
 
 ---
 
@@ -79,5 +71,3 @@ This React component integrates Chart.js to create a line chart representing rev
 | 4         | express     | axios           |
 
 ---
-
-<h1 align="center">✨Thank You✨</h1>
