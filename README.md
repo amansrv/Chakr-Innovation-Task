@@ -2,6 +2,10 @@
 
 <br>
 
+<img src="https://github.com/amansrv/amansrv/Chakr-Innovation-Task/main/Project_Sample">
+
+---
+
 > Overview
 
 **The web application allows users to explore Revenue & Profit Chart data in a user-friendly interface.**
