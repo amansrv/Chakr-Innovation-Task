@@ -2,7 +2,7 @@
 
 <br>
 
-![image](file:///C:/Users/DELL/Downloads/Chakr%20Innovation%20Task/Project_Sample.png)
+![image](https://drive.google.com/file/d/1sJDDEoYVo7j4-PNcJg2Ls3A2OyeHuto2/view?usp=sharing)
 
 ---
 
