@@ -25,7 +25,7 @@
 
 ---
 
-> Delpyed Linkes
+> Deployed Linkes
 
 - [![Backend Deploy to Render ](https://img.shields.io/badge/Backend_Deployed_Render_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chakr.onrender.com/api/downsampled)
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 💫Tech-Stack->
+> Tech-Stack
 
 - #### For Frontend:-
 
@@ -61,7 +61,7 @@
 
 ---
 
-# Package.json(Dependency)✨:-
+> Package.json (Dependency)
 
 | Serial No | Backend     | Frontend        |
 | --------- | ----------- | --------------- |
