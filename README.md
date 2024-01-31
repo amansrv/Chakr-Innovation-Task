@@ -29,14 +29,6 @@
 
 ---
 
-> Deployed Linkes
-
-- [![Backend Deploy to Render ](https://img.shields.io/badge/Backend_Deployed_Render_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chakr.onrender.com/api/downsampled)
-
-- [![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chakr-innovation-pvt-ltd-ckli.vercel.app/)
-
----
-
 > Tech-Stack
 
 - #### For Frontend:-
