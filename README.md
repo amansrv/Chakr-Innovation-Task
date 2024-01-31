@@ -2,7 +2,7 @@
 
 <br>
 
-![image](https://drive.google.com/file/d/1sJDDEoYVo7j4-PNcJg2Ls3A2OyeHuto2/view)
+<img align="center" src="Project_Sample.png">
 
 ---
 
